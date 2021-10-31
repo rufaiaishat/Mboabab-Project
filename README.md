@@ -1,2 +1,2 @@
-# Mboabab-Project
-Website for project
+# Mboalab-Project
+Website for Mboalab's project
